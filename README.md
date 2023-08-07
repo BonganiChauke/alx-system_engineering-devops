@@ -1,1 +1,1 @@
-This repository is for learning how to navigate shell basics
+This directory will have scripts that will be redirectingshell commands
