@@ -1,1 +1,1 @@
-This directory will have scripts containing shellpermissions
+This directory will have scripts that will have commands to redirect shell
